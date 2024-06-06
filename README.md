@@ -25,7 +25,7 @@ To run the game locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/heads-or-tails-game.git
+    git clone https://github.com/TiagoPaludo/head-or-tails-project.git
     cd heads-or-tails-game
     ```
 
