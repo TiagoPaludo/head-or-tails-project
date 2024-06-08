@@ -83,7 +83,14 @@ To run the game locally, follow these steps:
     - The counters for "Heads" and "Tails" will be updated accordingly.
 
 ## validator testing
+    - html tester
+    - follow link from results [w3](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftiagopaludo.github.io%2Fhead-or-tails-project%2F)
 
+    - css tester
+    -follow link from results [jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftiagopaludo.github.io%2Fhead-or-tails-project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=pt-BR)
+
+    - js tester
+    - follow link from results [jshint](https://jshint.com/)
 
 ## Deployment
 To deploy this web application, follow these steps:
