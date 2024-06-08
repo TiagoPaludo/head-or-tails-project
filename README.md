@@ -2,6 +2,11 @@
 
 This is a simple "Heads or Tails" game built using HTML, CSS, and JavaScript. The game allows users to flip a virtual coin and keeps track of the number of times "Heads" and "Tails" are flipped. This project is ideal for demonstrating basic web development skills and can serve as a learning tool for beginners.
 
+# screenshot in variou screens
+
+![image](https://github.com/TiagoPaludo/head-or-tails-project/assets/80179815/a13af070-bf72-44e1-bc5f-6dc822e2bc83)
+
+
 ## Table of Contents
 - [Purpose](#purpose)
 - [Value to Users](#value-to-users)
@@ -76,6 +81,9 @@ To run the game locally, follow these steps:
 2. **View results:**
     - The result of the flip (either "Heads" or "Tails") will be displayed on the screen.
     - The counters for "Heads" and "Tails" will be updated accordingly.
+
+## validator testing
+
 
 ## Deployment
 To deploy this web application, follow these steps:
