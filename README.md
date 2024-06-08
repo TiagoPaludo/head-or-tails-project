@@ -38,15 +38,18 @@ The purpose of this web application is to provide a simple and engaging way for 
 
 ## Screenshots
 ### Flip Coin Button
-![Flip Coin Button](screenshots/flip-button.png)
+![image](https://github.com/TiagoPaludo/head-or-tails-project/assets/80179815/b2a9a3a7-7f25-4fed-b6b8-118e3f760996)
+
 *Allows users to flip a virtual coin with a single click.*
 
 ### Result Display
-![Result Display](screenshots/result-display.png)
+![image](https://github.com/TiagoPaludo/head-or-tails-project/assets/80179815/72bc673c-21b2-401b-900a-10a4339741d4)
+
 *Displays the result of the coin flip immediately.*
 
 ### Counters
-![Counters](screenshots/counters.png)
+![image](https://github.com/TiagoPaludo/head-or-tails-project/assets/80179815/1cae194f-356d-41c3-bfb2-992025f9af9f)
+
 *Keeps track of the total number of "Heads" and "Tails" results.*
 
 ## Installation
