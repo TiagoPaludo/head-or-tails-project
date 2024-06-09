@@ -19,6 +19,7 @@ This is a simple "Heads or Tails" game built using HTML, CSS, and JavaScript. Th
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+- [validator testing](#validator-testing)
 
 ## Purpose
 The purpose of this web application is to provide a simple and engaging way for users to flip a coin and keep track of the results. It can be used for decision-making, games, or just for fun.
@@ -34,12 +35,12 @@ The purpose of this web application is to provide a simple and engaging way for 
 - JavaScript
 
 ## Features
-1. **![image](https://github.com/TiagoPaludo/head-or-tails-project/assets/80179815/04de2965-f5e1-40af-a1d6-2d5d366b6d17)
-** Allows users to flip a virtual coin.
-2. **![image](https://github.com/TiagoPaludo/head-or-tails-project/assets/80179815/4f6549a5-58aa-4731-b8e0-8232bb0be7a2)
-** Shows the result of each coin flip as either "Heads" or "Tails".
-3. **![image](https://github.com/TiagoPaludo/head-or-tails-project/assets/80179815/777ccdbd-650f-407c-aa49-747c7d266cf4)
-** Tracks and displays the total number of "Heads" and "Tails" results.
+1. ![image](https://github.com/TiagoPaludo/head-or-tails-project/assets/80179815/04de2965-f5e1-40af-a1d6-2d5d366b6d17)
+ Allows users to flip a virtual coin.
+2. ![image](https://github.com/TiagoPaludo/head-or-tails-project/assets/80179815/4f6549a5-58aa-4731-b8e0-8232bb0be7a2)
+ Shows the result of each coin flip as either "Heads" or "Tails".
+3. ![image](https://github.com/TiagoPaludo/head-or-tails-project/assets/80179815/777ccdbd-650f-407c-aa49-747c7d266cf4)
+ Tracks and displays the total number of "Heads" and "Tails" results.
 
 ## Screenshots
 ### Flip Coin Button
@@ -136,4 +137,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The initial structure of this project was inspired by various tutorials and examples found online.
 - [W3Schools](https://www.w3schools.com/) and [MDN Web Docs](https://developer.mozilla.org/) were invaluable resources in learning HTML, CSS, and JavaScript.
 
-**Note:** All external code sources and dependencies are attributed in the source code files via comments and in this `README.md` file.
