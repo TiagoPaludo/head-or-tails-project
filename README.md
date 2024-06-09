@@ -84,7 +84,7 @@ To run the game locally, follow these steps:
 
 ## validator testing
 
-- no error was found trough the [w3c validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftiagopaludo.github.io)
+- no error was found trough the [w3c validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftiagopaludo.github.io%2Fhead-or-tails-project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=pt-BR)
 
      css tester
     follow link from results [jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftiagopaludo.github.io%2Fhead-or-tails-project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=pt-BR)
