@@ -8,7 +8,7 @@ body{
 
 .coin-flip{
     text-align: center;
-    background-color: #fff;
+    background-color: #20e98a;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -29,4 +29,8 @@ button{
 .counters {
     margin-top: 20px;
     font-size: 18px;
+}
+
+h1 > img{
+    border-radius: 10px;
 }
