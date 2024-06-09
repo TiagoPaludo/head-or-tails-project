@@ -31,6 +31,6 @@ button{
     font-size: 18px;
 }
 
-img{
+h1 > img{
     border-radius: 10px;
 }
