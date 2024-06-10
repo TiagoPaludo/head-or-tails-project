@@ -1,3 +1,4 @@
+/* body general style*/
 body{
     display: flex;
     justify-content: center;
@@ -5,7 +6,7 @@ body{
     height: 100vh;
     margin: 0;
 }
-/* magioritary part of the game*/
+/*general div tyle for the game*/
 .coin-flip{
     text-align: center;
     background-color: #20e98a;
@@ -34,7 +35,7 @@ button{
     font-style: italic;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
+/*round the cornes of the img*/
 h1 > img{
     border-radius: 10px;
 }
