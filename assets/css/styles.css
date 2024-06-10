@@ -18,22 +18,27 @@ body{
 /* coin flip buttom, star fliping*/
 button{
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 20px;
     cursor: pointer;
     border: none;
     border-radius: 5px;
     background-color: #007bff;
     color: #fff;
     transition: background-color 0.3s;
+
 }
 /*style of counters*/
 .counters {
     margin-top: 20px;
-    font-size: 18px;
+    font-size: 37px;
     font-style: italic;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h1 > img{
     border-radius: 10px;
+}
+
+#result {
+    font-size: 40px;
 }
