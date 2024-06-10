@@ -5,7 +5,7 @@ body{
     height: 100vh;
     margin: 0;
 }
-
+/* magioritary part of the game*/
 .coin-flip{
     text-align: center;
     background-color: #20e98a;
@@ -14,8 +14,10 @@ body{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 100vh;
     margin: 10px;
+    font-size: 1.4rem;
+    font-weight: 200;
 }
-
+/* coin flip buttom, star fliping*/
 button{
     padding: 10px 20px;
     font-size: 16px;
@@ -26,9 +28,12 @@ button{
     color: #fff;
     transition: background-color 0.3s;
 }
+/*style of counters*/
 .counters {
     margin-top: 20px;
     font-size: 18px;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h1 > img{
