@@ -20,5 +20,11 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     });
 
+    document.getElementById("flip-button").addEventListener("keydown", function(event){
+        if (event.key === "enter") {
+            flipButton
+        }
+    })
+
 });
 
